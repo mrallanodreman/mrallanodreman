@@ -134,7 +134,8 @@ Civic research platform for timelines, evidence organization and structured publ
   <img src="https://img.shields.io/badge/Focus-ANCAR_MCP-111827?style=for-the-badge&logo=github&logoColor=white" alt="ANCAR MCP" />
   <img src="https://img.shields.io/badge/Deploy-Railway-111827?style=for-the-badge&logo=railway&logoColor=white" alt="Railway" />
   <img src="https://img.shields.io/badge/Comms-WhatsApp-111827?style=for-the-badge&logo=whatsapp&logoColor=25D366" alt="WhatsApp" />
-  <img src="https://img.shields.io/badge/Stack-GoHighLevel_%2B_MBA3-111827?style=for-the-badge&logo=hubspot&logoColor=FF7A59" alt="Stack" />
+  <img src="https://raw.githubusercontent.com/mrallanodreman/mrallanodreman/main/assets/gohighlevelsvg.svg" alt="GoHighLevel" height="28" />
+  <img src="https://img.shields.io/badge/MBA3_ERP-111827?style=for-the-badge&logo=databricks&logoColor=FF3621" alt="MBA3 ERP" />
 </div>
 
 <table>
@@ -145,12 +146,12 @@ Civic research platform for timelines, evidence organization and structured publ
 
 <br>
 
-Main MCP layer for agency operations, joining GoHighLevel, MBA3 ERP and AI-assisted sales workflows in one execution environment.
+Main MCP layer for agency operations, joining <img src="https://raw.githubusercontent.com/mrallanodreman/mrallanodreman/main/assets/gohighlevelsvg.svg" alt="GoHighLevel" height="14" /> GoHighLevel, MBA3 ERP and AI-assisted sales workflows in one execution environment.
 
 <br><br>
 
 ![Repo](https://img.shields.io/badge/mrallanodreman%2Fancar--mcp-111827?style=flat-square&logo=github&logoColor=white)
-![GoHighLevel](https://img.shields.io/badge/GoHighLevel-111827?style=flat-square&logo=hubspot&logoColor=FF7A59)
+<img src="https://raw.githubusercontent.com/mrallanodreman/mrallanodreman/main/assets/gohighlevelsvg.svg" alt="GoHighLevel" height="20" />
 ![MBA3](https://img.shields.io/badge/MBA3_ERP-111827?style=flat-square&logo=databricks&logoColor=FF3621)
 ![MCP](https://img.shields.io/badge/MCP-111827?style=flat-square&logo=github&logoColor=white)
 
