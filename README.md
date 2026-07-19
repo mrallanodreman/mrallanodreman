@@ -2,7 +2,7 @@
 
 # Allan Odreman
 
-### Systems, automation and digital products built for the real world.
+### Systems, automation and digital products for real-world use.
 
 `AI WORKFLOWS` &nbsp; `MCP` &nbsp; `PRODUCT ENGINEERING` &nbsp; `DIGITAL INFRASTRUCTURE`
 
