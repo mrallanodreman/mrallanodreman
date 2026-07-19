@@ -4,10 +4,6 @@
   <img src="https://raw.githubusercontent.com/mrallanodreman/mrallanodreman/main/assets/banner.svg" alt="Allan Odreman banner" width="100%" />
 </picture>
 
-<br>
-
-<img src="https://raw.githubusercontent.com/mrallanodreman/mrallanodreman/main/assets/ancasvg.svg" alt="ANCAR symbol" width="84" />
-
 [![Website](https://img.shields.io/badge/edgemarketing.art-111827?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.edgemarketing.art)
 ![Quito](https://img.shields.io/badge/Quito%2C_Ecuador-111827?style=for-the-badge&logo=googlemaps&logoColor=white)
 [![GitHub Followers](https://img.shields.io/github/followers/mrallanodreman?style=for-the-badge&logo=github&label=Followers&color=111827)](https://github.com/mrallanodreman?tab=followers)
