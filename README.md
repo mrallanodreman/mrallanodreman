@@ -1,7 +1,7 @@
 <div align="center">
 
 <picture>
-  <img src="./assets/banner.svg" alt="Allan Odreman banner" width="100%" />
+  <img src="https://raw.githubusercontent.com/mrallanodreman/mrallanodreman/main/assets/banner.svg" alt="Allan Odreman banner" width="100%" />
 </picture>
 
 [![Website](https://img.shields.io/badge/edgemarketing.art-111827?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.edgemarketing.art)
@@ -30,18 +30,18 @@ My work connects software with real operations: AI-assisted workflows, web platf
 > I do not build technology for the slide deck. I build it to solve the problem.
 
 <div align="center">
-  <img src="./assets/divider.svg" alt="section divider" width="100%" />
+  <img src="https://raw.githubusercontent.com/mrallanodreman/mrallanodreman/main/assets/divider.svg" alt="section divider" width="100%" />
 </div>
 
 ## What I build
 
 | Focus | What that means in practice |
 | --- | --- |
-| <img src="https://cdn.simpleicons.org/openai/8B5CF6" width="14" alt="AI" /> **AI + automation** | Agents, tool-enabled workflows and MCP servers connected to real services. |
-| <img src="https://cdn.simpleicons.org/whatsapp/25D366" width="14" alt="Systems" /> **Business systems** | Integrations across CRM, WhatsApp, ERP, payments and internal operations. |
-| <img src="https://cdn.simpleicons.org/github/FFFFFF" width="14" alt="Products" /> **Digital products** | Web platforms and focused applications designed around a measurable need. |
-| <img src="https://cdn.simpleicons.org/opencollective/7FADF2" width="14" alt="Civic tech" /> **Civic technology** | Tools that organize public information and help important stories remain visible. |
-| <img src="https://cdn.simpleicons.org/cloudflare/F38020" width="14" alt="Infra" /> **Infrastructure** | APIs, deployments, routing, monitoring and the less glamorous work that makes products reliable. |
+| **AI + automation** | Agents, tool-enabled workflows and MCP servers connected to real services. |
+| **Business systems** | Integrations across CRM, WhatsApp, ERP, payments and internal operations. |
+| **Digital products** | Web platforms and focused applications designed around a measurable need. |
+| **Civic technology** | Tools that organize public information and help important stories remain visible. |
+| **Infrastructure** | APIs, deployments, routing, monitoring and the less glamorous work that makes products reliable. |
 
 ## Selected work
 
@@ -55,7 +55,7 @@ My work connects software with real operations: AI-assisted workflows, web platf
 <tr>
 <td width="50%" valign="top">
 
-<strong><a href="https://github.com/mrallanodreman/AllMusic2.0"><img src="https://cdn.simpleicons.org/linux/FFFFFF" width="15" alt="Linux" /> AllMusic 2.0</a></strong>
+<strong><a href="https://github.com/mrallanodreman/AllMusic2.0">AllMusic 2.0</a></strong>
 
 <br>
 
@@ -71,7 +71,7 @@ Native Linux desktop app connected to the AllMusic platform for fast search, pla
 </td>
 <td width="50%" valign="top">
 
-<strong><img src="https://cdn.simpleicons.org/tradingview/2962FF" width="15" alt="Markets" /> NeuroMarkets</strong>
+<strong>NeuroMarkets</strong>
 
 <br>
 
@@ -89,7 +89,7 @@ Private flagship focused on market intelligence, automated signal workflows and 
 <tr>
 <td colspan="2" valign="top">
 
-<strong><a href="https://github.com/mrallanodreman/expediente-venezuela"><img src="https://cdn.simpleicons.org/github/FFFFFF" width="15" alt="Civic" /> Expediente Venezuela</a></strong>
+<strong><a href="https://github.com/mrallanodreman/expediente-venezuela">Expediente Venezuela</a></strong>
 
 <br>
 
@@ -107,7 +107,7 @@ Civic research platform for timelines, evidence organization and structured publ
 </table>
 
 <div align="center">
-  <img src="./assets/divider.svg" alt="section divider" width="100%" />
+  <img src="https://raw.githubusercontent.com/mrallanodreman/mrallanodreman/main/assets/divider.svg" alt="section divider" width="100%" />
 </div>
 
 ## Working stack
@@ -138,7 +138,7 @@ Operations      DNS · reverse proxies · monitoring · deployment automation
 <tr>
 <td width="50%" valign="top">
 
-<strong><img src="https://cdn.simpleicons.org/github/FFFFFF" width="15" alt="Repo" /> ANCAR MCP</strong>
+<strong>ANCAR MCP</strong>
 
 <br>
 
@@ -154,7 +154,7 @@ Main MCP layer for agency operations, joining GoHighLevel, MBA3 ERP and AI-assis
 </td>
 <td width="50%" valign="top">
 
-<strong><img src="https://cdn.simpleicons.org/n8n/8B5CF6" width="15" alt="Automation" /> INGCO</strong>
+<strong>INGCO</strong>
 
 <br>
 
@@ -171,7 +171,7 @@ Webhook and operational flows for client interactions, lead capture and connecte
 <tr>
 <td width="50%" valign="top">
 
-<strong><img src="https://cdn.simpleicons.org/hubspot/FF7A59" width="15" alt="CRM" /> Novicompu</strong>
+<strong>Novicompu</strong>
 
 <br>
 
@@ -187,7 +187,7 @@ Active work on CRM, ERP and sales-agent integration so commercial actions do not
 </td>
 <td width="50%" valign="top">
 
-<strong><img src="https://cdn.simpleicons.org/googlemaps/4285F4" width="15" alt="Location" /> Rectima</strong>
+<strong>Rectima</strong>
 
 <br>
 
@@ -205,7 +205,7 @@ Service and location-aware workflows connected to webhook infrastructure, custom
 </table>
 
 <div align="center">
-  <img src="./assets/divider.svg" alt="section divider" width="100%" />
+  <img src="https://raw.githubusercontent.com/mrallanodreman/mrallanodreman/main/assets/divider.svg" alt="section divider" width="100%" />
 </div>
 
 ---
