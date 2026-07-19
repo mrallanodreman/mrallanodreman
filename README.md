@@ -120,49 +120,92 @@ Civic research platform for timelines, evidence organization and structured publ
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-111827?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-111827?style=for-the-badge&logo=typescript&logoColor=3178C6)
-![C++](https://img.shields.io/badge/C%2B%2B-111827?style=for-the-badge&logo=c%2B%2B&logoColor=00599C)
-![HTML/CSS](https://img.shields.io/badge/HTML%2FCSS-111827?style=for-the-badge&logo=html5&logoColor=E34F26)
+<table>
+<tr>
+<td width="33%" valign="top" align="center">
 
-<br>
+<strong>Languages</strong>
 
-![MCP](https://img.shields.io/badge/MCP-111827?style=for-the-badge&logo=github&logoColor=white)
-![Tool Calling](https://img.shields.io/badge/Tool_Calling-111827?style=for-the-badge&logo=openai&logoColor=74AA9C)
-![Agents](https://img.shields.io/badge/Agents-111827?style=for-the-badge&logo=anthropic&logoColor=D97757)
-![Workflow Automation](https://img.shields.io/badge/Workflow_Automation-111827?style=for-the-badge&logo=n8n&logoColor=EA4B71)
+<br><br>
 
-<br>
+<img src="https://skillicons.dev/icons?i=python,javascript,typescript,cpp,html,css&theme=dark" alt="Languages" />
 
-![Node.js](https://img.shields.io/badge/Node.js-111827?style=for-the-badge&logo=nodedotjs&logoColor=5FA04E)
-![Express](https://img.shields.io/badge/Express-111827?style=for-the-badge&logo=express&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-111827?style=for-the-badge&logo=fastapi&logoColor=009688)
-![REST APIs](https://img.shields.io/badge/REST_APIs-111827?style=for-the-badge&logo=fastapi&logoColor=white)
-![Webhooks](https://img.shields.io/badge/Webhooks-111827?style=for-the-badge&logo=zapier&logoColor=FF4F00)
+</td>
+<td width="33%" valign="top" align="center">
 
-<br>
+<strong>AI systems</strong>
 
-![GitHub](https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white)
-![Railway](https://img.shields.io/badge/Railway-111827?style=for-the-badge&logo=railway&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-111827?style=for-the-badge&logo=cloudflare&logoColor=F38020)
-![Linux](https://img.shields.io/badge/Linux-111827?style=for-the-badge&logo=linux&logoColor=FCC624)
-![Docker](https://img.shields.io/badge/Docker-111827?style=for-the-badge&logo=docker&logoColor=2496ED)
+<br><br>
 
-<br>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" width="42" alt="Workflow automation" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="42" alt="Agents" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="42" alt="Tool calling" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="42" alt="MCP tooling" />
 
-![GoHighLevel](https://img.shields.io/badge/GoHighLevel-111827?style=for-the-badge&logo=hubspot&logoColor=FF7A59)
-![WhatsApp](https://img.shields.io/badge/WhatsApp-111827?style=for-the-badge&logo=whatsapp&logoColor=25D366)
-![ERP](https://img.shields.io/badge/ERP-111827?style=for-the-badge&logo=databricks&logoColor=FF3621)
-![Stripe](https://img.shields.io/badge/Stripe-111827?style=for-the-badge&logo=stripe&logoColor=635BFF)
-![Brevo](https://img.shields.io/badge/Brevo-111827?style=for-the-badge&logo=maildotru&logoColor=00A3FF)
+<br><br>
 
-<br>
+<sub>MCP · tool calling · agents · workflow automation</sub>
 
-![DNS](https://img.shields.io/badge/DNS-111827?style=for-the-badge&logo=cloudflare&logoColor=F38020)
-![Reverse Proxies](https://img.shields.io/badge/Reverse_Proxies-111827?style=for-the-badge&logo=nginx&logoColor=009639)
-![Monitoring](https://img.shields.io/badge/Monitoring-111827?style=for-the-badge&logo=grafana&logoColor=F46800)
-![Deploy Automation](https://img.shields.io/badge/Deploy_Automation-111827?style=for-the-badge&logo=githubactions&logoColor=2088FF)
+</td>
+<td width="33%" valign="top" align="center">
+
+<strong>Backend</strong>
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,flask&theme=dark" alt="Backend" />
+
+<br><br>
+
+<sub>REST APIs · webhooks · service logic</sub>
+
+</td>
+</tr>
+<tr>
+<td width="33%" valign="top" align="center">
+
+<strong>Platforms</strong>
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=github,docker,linux,cloudflare&theme=dark" alt="Platforms" />
+
+<br><br>
+
+<sub>GitHub · Railway · Cloudflare · Linux · Docker</sub>
+
+</td>
+<td width="33%" valign="top" align="center">
+
+<strong>Integrations</strong>
+
+<br><br>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="42" alt="GoHighLevel/CRM" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="42" alt="ERP" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/woocommerce/woocommerce-original.svg" width="42" alt="Commerce" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" width="42" alt="Communications" />
+
+<br><br>
+
+<sub>GoHighLevel · WhatsApp · ERP · Stripe · Brevo</sub>
+
+</td>
+<td width="33%" valign="top" align="center">
+
+<strong>Operations</strong>
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=nginx,grafana,githubactions,bash&theme=dark" alt="Operations" />
+
+<br><br>
+
+<sub>DNS · reverse proxies · monitoring · deploy automation</sub>
+
+</td>
+</tr>
+</table>
 
 </div>
 
