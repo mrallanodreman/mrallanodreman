@@ -31,23 +31,53 @@ My work connects software with real operations: AI-assisted workflows, web platf
 
 ## Selected work
 
-### [AllMusic 2.0](https://github.com/mrallanodreman/AllMusic2.0)
+> Three tracks define the portfolio right now: product, intelligence and civic infrastructure.
 
-A native Linux desktop companion app for the AllMusic platform, focused on search, streaming and quick access to music workflows.
+<table>
+<tr>
+<td width="50%" valign="top">
 
-`Python` `GTK` `Desktop App` `Streaming`
+<strong><a href="https://github.com/mrallanodreman/AllMusic2.0">AllMusic 2.0</a></strong>
 
-### NeuroMarkets
+<br>
 
-A private flagship focused on market intelligence, automated signal workflows and trading-oriented product systems.
+Native Linux desktop app connected to the AllMusic platform for fast search, playback and download workflows.
 
-`Private` `Automation` `Data` `Product Systems`
+<br><br>
 
-### [Expediente Venezuela](https://github.com/mrallanodreman/expediente-venezuela)
+`Python` `GTK` `Desktop` `Streaming`
 
-A civic research platform for organizing timelines, reports and documentary evidence about Venezuela.
+</td>
+<td width="50%" valign="top">
+
+<strong>NeuroMarkets</strong>
+
+<br>
+
+Private flagship focused on market intelligence, automated signal workflows and trading-oriented product systems.
+
+<br><br>
+
+`Private` `Automation` `Data` `Signals`
+
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top">
+
+<strong><a href="https://github.com/mrallanodreman/expediente-venezuela">Expediente Venezuela</a></strong>
+
+<br>
+
+Civic research platform for timelines, evidence organization and structured public-interest investigation.
+
+<br><br>
 
 `HTML` `JavaScript` `Data` `Civic Tech`
+
+</td>
+</tr>
+</table>
 
 ## Working stack
 
@@ -64,49 +94,62 @@ Operations      DNS · reverse proxies · monitoring · deployment automation
 
 ### ANCAR MCP ecosystem
 
-Private multi-service MCP infrastructure connecting agency operations with real business tools.
-
-- **`mrallanodreman/ancar-mcp`**: GoHighLevel + MBA3 ERP + AI sales agent workflows.
-- **Client automation**: operational integrations for Novicompu, Rectima and INGCO, including shared webhook work.
-- **Deployment layer**: Railway-hosted services wired to communications and CRM systems.
-
-`MCP` `GoHighLevel` `ERP` `WhatsApp` `Railway`
-
-## Collaborations
+> Private operational stack where CRM, ERP, webhook logic and AI-assisted communication work as one system.
 
 <table>
 <tr>
-<td width="33%" valign="top">
+<td width="50%" valign="top">
 
-<strong>ANCAR / INGCO</strong>
+<strong>ANCAR MCP</strong>
 
 <br>
 
-Shared client automation work across webhook flows and agency operations.
+Main MCP layer for agency operations, joining GoHighLevel, MBA3 ERP and AI-assisted sales workflows in one execution environment.
 
-`ancaragencia08-svg/inco-webhook`
+<br><br>
+
+`mrallanodreman/ancar-mcp` `GoHighLevel` `MBA3` `MCP`
 
 </td>
-<td width="33%" valign="top">
+<td width="50%" valign="top">
 
-<strong>ArturoRiosMock</strong>
+<strong>INGCO</strong>
 
 <br>
 
-Shared work on AI agent experiments and assisted workflow tooling.
+Webhook and operational flows for client interactions, lead capture and connected execution inside the ANCAR stack.
 
-`ArturoRiosMock/agente`
+<br><br>
+
+`Webhook Flows` `Lead Ops` `Client Automation`
 
 </td>
-<td width="33%" valign="top">
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-<strong>Cross-client builds</strong>
+<strong>Novicompu</strong>
 
 <br>
 
-Private systems delivered across marketing, ERP, CRM and communications environments.
+Active work on CRM, ERP and sales-agent integration so commercial actions do not live apart from the operating system.
 
-`Agency Ops` `Integrations` `Automation`
+<br><br>
+
+`CRM` `ERP` `Sales Agent` `Operations`
+
+</td>
+<td width="50%" valign="top">
+
+<strong>Rectima</strong>
+
+<br>
+
+Service and location-aware workflows connected to webhook infrastructure, customer communication and field-ready logic.
+
+<br><br>
+
+`Webhook` `Locations` `Automation` `Comms`
 
 </td>
 </tr>
