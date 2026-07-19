@@ -1,12 +1,12 @@
 <svg width="1280" height="180" viewBox="0 0 1280 180" fill="none" xmlns="http://www.w3.org/2000/svg">
-  <rect width="1280" height="180" rx="20" fill="#0B1020"/>
-  <rect x="18" y="18" width="1244" height="144" rx="16" fill="#11182E" stroke="#27324A"/>
-
-  <text x="36" y="48" fill="#A5B4FC" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700" letter-spacing="1.5">WORKING STACK</text>
+  <text x="36" y="42" fill="#A5B4FC" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700" letter-spacing="1.5">WORKING STACK</text>
+  <rect x="34" y="56" width="520" height="2" rx="1" fill="#243047"/>
+  <rect x="570" y="54" width="120" height="6" rx="3" fill="#7C3AED"/>
+  <rect x="706" y="56" width="540" height="2" rx="1" fill="#243047"/>
 
   <defs>
     <clipPath id="marquee-clip">
-      <rect x="34" y="62" width="1212" height="82" rx="10"/>
+      <rect x="34" y="74" width="1212" height="70" rx="10"/>
     </clipPath>
     <g id="pill-python">
       <rect width="180" height="44" rx="14" fill="#151E35" stroke="#2C3753"/>
