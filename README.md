@@ -48,7 +48,11 @@ My work connects software with real operations: AI-assisted workflows, web platf
 > Three tracks define the portfolio right now: product, intelligence and civic infrastructure.
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mrallanodreman&show_icons=true&hide_border=true&title_color=8B5CF6&text_color=AAB6CA&icon_color=8B5CF6&bg_color=00000000&rank_icon=github" alt="GitHub stats" height="165" />
+
+![Public Repos](https://img.shields.io/badge/Public_Repos-5-111827?style=for-the-badge&logo=github&logoColor=white)
+![Followers](https://img.shields.io/badge/Followers-4-111827?style=for-the-badge&logo=github&logoColor=white)
+![Focus](https://img.shields.io/badge/Focus-AI_%2B_Automation-111827?style=for-the-badge&logo=openai&logoColor=74AA9C)
+
 </div>
 
 <table>
