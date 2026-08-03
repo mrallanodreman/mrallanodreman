@@ -116,9 +116,7 @@ Civic research platform for timelines, evidence organization and structured publ
   <img src="https://raw.githubusercontent.com/mrallanodreman/mrallanodreman/main/assets/divider.svg" alt="section divider" width="100%" />
 </div>
 
-## Working stack
 
-<div align="center">
 
 <img src="https://raw.githubusercontent.com/mrallanodreman/mrallanodreman/main/assets/stack-marquee.svg" alt="Working stack marquee" width="100%" />
 
