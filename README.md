@@ -120,12 +120,12 @@ Civic research platform for timelines, evidence organization and structured publ
 
 ## Currently working on
 
-### ANCAR MCP ecosystem
+### Operational stack
 
 > Private operational stack where CRM, ERP, webhook logic and AI-assisted communication work as one system.
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Focus-ANCAR_MCP-111827?style=for-the-badge&logo=github&logoColor=white" alt="ANCAR MCP" />
+  <img src="https://img.shields.io/badge/Focus-Operations-111827?style=for-the-badge&logo=github&logoColor=white" alt="Operational stack" />
   <img src="https://img.shields.io/badge/Deploy-Railway-111827?style=for-the-badge&logo=railway&logoColor=white" alt="Railway" />
   <img src="https://img.shields.io/badge/Comms-WhatsApp-111827?style=for-the-badge&logo=whatsapp&logoColor=25D366" alt="WhatsApp" />
   <img src="https://raw.githubusercontent.com/mrallanodreman/mrallanodreman/main/assets/gohighlevelsvg.svg" alt="GoHighLevel" height="28" />
@@ -136,27 +136,27 @@ Civic research platform for timelines, evidence organization and structured publ
 <tr>
 <td width="50%" valign="top">
 
-<strong>ANCAR MCP</strong>
+<strong>MCP ecosystem</strong>
 
 <br>
 
-Main MCP layer for agency operations, joining <img src="https://raw.githubusercontent.com/mrallanodreman/mrallanodreman/main/assets/gohighlevelsvg.svg" alt="GoHighLevel" height="14" /> GoHighLevel, MBA3 ERP and AI-assisted sales workflows in one execution environment.
+MCP layer for operations, joining <img src="https://raw.githubusercontent.com/mrallanodreman/mrallanodreman/main/assets/gohighlevelsvg.svg" alt="GoHighLevel" height="14" /> GoHighLevel, MBA3 ERP and AI-assisted sales workflows in one execution environment.
 
 <br><br>
 
-![Repo](https://img.shields.io/badge/mrallanodreman%2Fancar--mcp-111827?style=flat-square&logo=github&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-111827?style=flat-square&logo=github&logoColor=white)
 <img src="https://raw.githubusercontent.com/mrallanodreman/mrallanodreman/main/assets/gohighlevelsvg.svg" alt="GoHighLevel" height="20" />
 ![MBA3](https://img.shields.io/badge/MBA3_ERP-111827?style=flat-square&logo=databricks&logoColor=FF3621)
-![MCP](https://img.shields.io/badge/MCP-111827?style=flat-square&logo=github&logoColor=white)
+![Automation](https://img.shields.io/badge/Automation-111827?style=flat-square&logo=n8n&logoColor=EA4B71)
 
 </td>
 <td width="50%" valign="top">
 
-<strong>INGCO</strong>
+<strong>Webhook and lead operations</strong>
 
 <br>
 
-Webhook and operational flows for client interactions, lead capture and connected execution inside the ANCAR stack.
+Webhook and operational flows for client interactions, lead capture and connected execution across the stack.
 
 <br><br>
 
@@ -169,11 +169,11 @@ Webhook and operational flows for client interactions, lead capture and connecte
 <tr>
 <td width="50%" valign="top">
 
-<strong>Novicompu</strong>
+<strong>CRM and ERP integration</strong>
 
 <br>
 
-Active work on CRM, ERP and sales-agent integration so commercial actions do not live apart from the operating system.
+CRM, ERP and sales-agent integration so commercial actions do not live apart from the operating system.
 
 <br><br>
 
@@ -185,7 +185,7 @@ Active work on CRM, ERP and sales-agent integration so commercial actions do not
 </td>
 <td width="50%" valign="top">
 
-<strong>Rectima</strong>
+<strong>Service and location workflows</strong>
 
 <br>
 
