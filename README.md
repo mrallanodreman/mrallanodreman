@@ -16,6 +16,10 @@
 ![Docker](https://img.shields.io/badge/Docker-111827?style=flat-square&logo=docker&logoColor=2496ED)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-111827?style=flat-square&logo=cloudflare&logoColor=F38020)
 ![Railway](https://img.shields.io/badge/Railway-111827?style=flat-square&logo=railway&logoColor=white)
+![WhatsApp Automation](https://img.shields.io/badge/WhatsApp_Automation-111827?style=flat-square&logo=whatsapp&logoColor=25D366)
+![Production Ready](https://img.shields.io/badge/Production--Ready_Code-111827?style=flat-square&logo=gnubash&logoColor=white)
+![CRM](https://img.shields.io/badge/CRM_Integration-111827?style=flat-square&logo=hubspot&logoColor=FF7A59)
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-111827?style=flat-square&logo=linuxfoundation&logoColor=white)
 
 </div>
 
@@ -35,8 +39,11 @@ My work connects software with real operations: AI-assisted workflows, web platf
 
 | Focus | What that means in practice |
 | --- | --- |
+| **WhatsApp automation** | Conversational agents, scheduling and message flows wired into real business operations. |
+| **Production-ready code** | Systems shipped and maintained in production, not prototypes left on a slide. |
+| **CRM + ERP integration** | Customer, sales and back-office data joined across platforms instead of living in silos. |
+| **Cybersecurity** | Hardening, access control and defensive review applied to everything I deploy. |
 | **AI + automation** | Agents, tool-enabled workflows and MCP servers connected to real services. |
-| **Business systems** | Integrations across CRM, WhatsApp, ERP, payments and internal operations. |
 | **Digital products** | Web platforms and focused applications designed around a measurable need. |
 | **Civic technology** | Tools that organize public information and help important stories remain visible. |
 | **Infrastructure** | APIs, deployments, routing, monitoring and the less glamorous work that makes products reliable. |
